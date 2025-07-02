@@ -1,1 +1,12 @@
 90262b9
+
+NUEVAS CARACTERÍSTICAS:
+- Nuevo tipo de cierre: P2,5 (pestaña de 2,5 cm)
+- Permite cambiar sector por pieza sin afectar sector principal
+- Actualización automática de tabla al cambiar entre formas RECT/CIR
+
+MEJORAS:
+- Piezas CUELLO y CLICNH ahora tienen cierre CLINCH por defecto
+- Validación de medidas (solo acepta valores de 1 a 10000)
+- Imagen actualizada para pieza HAMACA (RECT)
+- Mensaje informativo al abrir la planilla
