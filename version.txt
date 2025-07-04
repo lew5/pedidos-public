@@ -1,4 +1,4 @@
-90262b9
+55aa8c9
 
 Nuevo tipo de cierre: P2,5 (pestaña de 2,5 cm)
 Permite cambiar sector por pieza sin afectar sector principal
@@ -8,3 +8,5 @@ Piezas CUELLO y CLICNH ahora tienen cierre CLINCH por defecto
 Validación de medidas (solo acepta valores de 1 a 10000)
 Imagen actualizada para pieza HAMACA (RECT)
 Mensaje informativo al abrir la planilla
+Parámetro "Figura" para la pieza Transformación 
+Imágenes actualizadas para las gargantas 
