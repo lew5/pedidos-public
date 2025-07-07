@@ -1,13 +1,4 @@
-7fb7924
+d105777
 
-Nuevo tipo de cierre: P2,5 (pestaña de 2,5 cm)
-Permite cambiar sector por pieza sin afectar sector principal
-Actualización automática de tabla al cambiar entre formas RECT/CIR
-
-Piezas CUELLO y CLICNH ahora tienen cierre CLINCH por defecto
-Validación de medidas (solo acepta valores de 1 a 10000)
-Imagen actualizada para pieza HAMACA (RECT)
-Mensaje informativo al abrir la planilla
-Parámetro "Figura" para la pieza Transformación 
-Imágenes actualizadas para las gargantas
-Ahora se muestran los grados en el nombre de las piezas(codo, cuña)
+Nueva pieza - Cuello sin Lu
+El pantalón ya no pide los grados
