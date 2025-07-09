@@ -1,4 +1,5 @@
-d105777
+df7ea4c
 
 Nueva pieza - Cuello sin Lu
 El pantalón ya no pide los grados
+No se le suma la tapa al cajón
